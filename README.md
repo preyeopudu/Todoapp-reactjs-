@@ -1,4 +1,4 @@
-# This app is a todo web app application built with React js
+# ToDo app
 
-### data is stored on local storage and rendered out.
+### A todo app built with react js, using context provider and local storage
 
